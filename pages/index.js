@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="Abassis Finance Manager has been discontinued" />
         <p className="description">
-          <a href="https://www.filesculptor.com/convert-csv-to-excel/">How to Convert CSV to Excel Manually or Automatically</a>
+          How to <a href="https://www.filesculptor.com/convert-csv-to-excel/">Convert CSV to Excel</a> Manually or Automatically
         </p>
       </main>
 
